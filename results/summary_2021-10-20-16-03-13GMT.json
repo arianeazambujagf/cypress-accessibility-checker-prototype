@@ -1,0 +1,30 @@
+{
+    "counts": {
+        "ignored": 0,
+        "violation": 0,
+        "recommendation": 0,
+        "potentialviolation": 0,
+        "potentialrecommendation": 0,
+        "manual": 0
+    },
+    "startReport": 1634756593757,
+    "endReport": 1634756625315,
+    "toolID": "accessibility-checker-v3.1.10",
+    "policies": "IBM_Accessibility",
+    "reportLevels": [
+        "violation",
+        "potentialviolation",
+        "recommendation",
+        "potentialrecommendation",
+        "manual"
+    ],
+    "labels": [
+        "master"
+    ],
+    "failLevels": [
+        "violation",
+        "potentialviolation"
+    ],
+    "scanID": "0cef2154-5371-4bd6-bdbf-8f1ca10b1e59",
+    "pageScanSummary": []
+}
